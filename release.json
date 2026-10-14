@@ -1,0 +1,17 @@
+{
+  "name": "blackhole-vault",
+  "version": "2.1.0b",
+  "sourcePublishedAt": "2026-10-14",
+  "entrypoint": "index.html",
+  "entrypointBytes": 261119,
+  "entrypointSha256": "b67c81578a1fa00311e8a23bc499f16215d13d368e2d0df9c0238c8964872825",
+  "applicationChangedForPublication": false,
+  "files": [
+    ".gitignore",
+    "CHANGELOG.md",
+    "README.md",
+    "index.html",
+    "release.json",
+    "scripts/check-release.mjs"
+  ]
+}
